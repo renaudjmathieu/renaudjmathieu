@@ -50,8 +50,8 @@
 [<img src="https://powerapps.microsoft.com/images/application-logos/svg/powerautomate.svg" width="45">][powerautomate]
 [<img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" width="45">][powerbi]
 [<img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powervirtualagents.svg" width="45">][powervirtualagents]
-[<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.webp" width="50">][copilot]
 [<img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" width="100">][mlflow]
+[<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.webp" width="50">][copilot]
 
 [vscode]: https://code.visualstudio.com
 [azure]: https://azure.microsoft.com/en-us/
@@ -84,8 +84,8 @@
 [powerautomate]: https://powerautomate.microsoft.com/en-us/
 [powerbi]: https://powerbi.microsoft.com/en-us/
 [powervirtualagents]: https://powervirtualagents.microsoft.com/en-us/
-[copilot]: https://github.com/features/copilot
 [mlflow]: https://mlflow.org
+[copilot]: https://github.com/features/copilot
 
 ## :mortar_board: Certifications I have
 
