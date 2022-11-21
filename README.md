@@ -4,7 +4,7 @@
 - 👀 I’m interested in ai/ml, bi and web development
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me : renaudjmathieu@gmail.com
+- 📫 How to reach me : hi@renaudjmathieu.com
 
 ## :pencil2: Favorite languages
 
