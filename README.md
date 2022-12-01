@@ -38,6 +38,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90">][sklearn]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50">][jupyter]
 [<img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" width="45">][tensorflow]
+[<img src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" width="50">][d3]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" width="85">][kaggle]
 [<img src="https://numpy.org/images/logo.svg" width="50">][numpy]
 [<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40">][pandas]
@@ -72,6 +73,7 @@
 [sklearn]: https://scikit-learn.org/
 [jupyter]: https://jupyter.org/
 [tensorflow]: https://www.tensorflow.org
+[d3]: https://d3js.org/
 [kaggle]: https://www.kaggle.com/
 [numpy]: https://numpy.org/
 [pandas]: https://pandas.pydata.org/
